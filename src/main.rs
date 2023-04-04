@@ -1,5 +1,6 @@
+// Variables
 fn main() {
-    println!("Hello, world!");
+    let my_name = "taiye";
 }
 
-// Variables
+

@@ -40,7 +40,9 @@ fn main() {
     vector_items_2.push(2);
     vector_items_2.push(3);
     vector_items_2.push(4);
-    vector_items_2.push(8);
+    vector_items_2.push(12);
+    vector_items_2.push(3);
+    vector_items_2.push(2);
 
 println!("Vector_items: {:?}", vector_items);
 println!("Vector_items_2 {:?}", vector_items_2);
